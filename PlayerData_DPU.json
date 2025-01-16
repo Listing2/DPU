@@ -488,7 +488,7 @@
       },
       "82": {
         "displayName": "Mr-Blank",
-        "name": "블랭크",
+        "name": "Mr.블랭크",
         "team": 9,
         "teamName": "제작팀"
       },
@@ -499,6 +499,12 @@
         "teamName": "제작팀"
       },
       "84": {
+        "displayName": "Arecanon",
+        "name": "아레카논",
+        "team": 9,
+        "teamName": "제작팀"
+      },
+      "85": {
         "displayName": "(풍신)",
         "name": "풍신",
         "team": 9,
