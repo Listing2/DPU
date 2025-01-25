@@ -501,14 +501,19 @@
       "84": {
         "displayName": "Arecanon",
         "name": "아레카논",
-        "team": 9,
-        "teamName": "제작팀"
+        "team": 1,
+        "teamName": "대고멤 제국"
       },
       "85": {
         "displayName": "kimkamen",
         "name": "킴카멘",
         "team": 9,
-        "teamName": "제작팀"
+        "teamName": "제작팀",
+     "86": {
+        "displayName": "베이 bay",
+        "name": "베이",
+        "team": 0,
+        "teamName": "세도리아 제국"
       }
     }
 }
