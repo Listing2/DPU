@@ -1,10 +1,10 @@
 {
     "players": {
       "0": {
-        "displayName": "dummy",
-        "name": "dummy",
+        "displayName": "-",
+        "name": "-",
         "team": 0,
-        "teamName": "dummy"
+        "teamName": "-"
       },
       "2": {
         "displayName": "Roblca",
