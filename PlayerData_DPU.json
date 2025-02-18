@@ -1,136 +1,334 @@
 {
-    "players": {
-        "0": {
-            "displayName": "등록 X",
-            "name": "등록 X",
-            "team": 0,
-            "teamName": "등록 X"
-        },
-        "1": {
-            "displayName": "Roblca",
-            "name": "Roblca_로블카",
-            "team": 1,
-            "teamName": "Team 우왁굳"
-        },
-        "2": {
-            "displayName": "Gonyong",
-            "name": "Gonyong",
-            "team": 1,
-            "teamName": "Team 우왁굳"
-        },
-        "3": {
-            "displayName": "_강 도_",
-            "name": "강도38",
-            "team": 2,
-            "teamName": "Team 조매력"
-        },
-        "4": {
-            "displayName": "ByeolBam",
-            "name": "ByeolBam",
-            "team": 2,
-            "teamName": "Team 조매력"
-        },
-        "5": {
-            "displayName": "크리이케_Creeike",
-            "name": "크리이케",
-            "team": 3,
-            "teamName": "Team 머독"
-        },
-        "6": {
-            "displayName": "오그림_",
-            "name": "오그림",
-            "team": 3,
-            "teamName": "Team 머독"
-        },
-        "7": {
-            "displayName": "Տɑѵҽաժամ",
-            "name": "Savedu",
-            "team": 4,
-            "teamName": "Team 천양"
-        },
-        "8": {
-            "displayName": "VRwakgood",
-            "name": "우왁굳",
-            "team": 1,
-            "teamName": "Team 우왁굳"
-        },
-        "9": {
-            "displayName": "리스팅_",
-            "name": "리스팅",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "10": {
-            "displayName": "Gomgombear",
-            "name": "곰곰베어",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "11": {
-            "displayName": "hadaga",
-            "name": "하다가",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "12": {
-            "displayName": "_LarMa_",
-            "name": "라마",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "13": {
-            "displayName": "가면가온나",
-            "name": "가온가온나",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "14": {
-            "displayName": "(개르미)",
-            "name": "개르미",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "15": {
-            "displayName": "몰라요1419",
-            "name": "몰라요",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "16": {
-            "displayName": "GONAK",
-            "name": "GONAK",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "17": {
-            "displayName": "핵_맴매",
-            "name": "핵맴매",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "18": {
-            "displayName": "Arecanon",
-            "name": "아레카논",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "19": {
-            "displayName": "kimkamen",
-            "name": "킴카멘",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "20": {
-            "displayName": "베이 bay",
-            "name": "베이",
-            "team": 9,
-            "teamName": "제작팀"
-        },
-        "21": {
-            "displayName": "LILPAAA",
-            "name": "릴파",
-            "team": 9,
-            "teamName": "제작팀"
-        }
-    }
+	"players": {
+		"0": {
+			"displayName": "등록 X",
+			"name": "등록 X",
+			"team": 0,
+			"teamName": "등록 X"
+		},
+		"1": {
+			"displayName": "VRwakgood",
+			"name": "우왁굳",
+			"team": 1,
+			"teamName": "Team 유기농"
+		},
+		"2": {
+			"displayName": "마이곰이",
+			"name": "마이곰이",
+			"team": 1,
+			"teamName": "Team 유기농"
+		},
+		"3": {
+			"displayName": "카나시 Kanashi",
+			"name": "카나시",
+			"team": 1,
+			"teamName": "Team 유기농"
+		},
+		"4": {
+			"displayName": "스위데 Swideh",
+			"name": "스위데",
+			"team": 1,
+			"teamName": "Team 유기농"
+		},
+		"5": {
+			"displayName": "summer030",
+			"name": "여르미",
+			"team": 1,
+			"teamName": "Team 유기농"
+		},
+		"6": {
+			"displayName": "HOBAL",
+			"name": "호발",
+			"team": 1,
+			"teamName": "Team 유기농"
+		},
+		"7": {
+			"displayName": "채은채_",
+			"name": "채은채",
+			"team": 1,
+			"teamName": "Team 유기농"
+		},
+		"8": {
+			"displayName": "chunyangkr",
+			"name": "천양",
+			"team": 2,
+			"teamName": "Team 달아이스"
+		},
+		"9": {
+			"displayName": "Oo김빙밍oO",
+			"name": "빙밍",
+			"team": 2,
+			"teamName": "Team 달아이스"
+		},
+		"10": {
+			"displayName": "제갈금자",
+			"name": "제갈금자",
+			"team": 2,
+			"teamName": "Team 달아이스"
+		},
+		"11": {
+			"displayName": "Danz_59",
+			"name": "단즈",
+			"team": 2,
+			"teamName": "Team 달아이스"
+		},
+		"12": {
+			"displayName": "_단츄_",
+			"name": "단츄",
+			"team": 2,
+			"teamName": "Team 달아이스"
+		},
+		"13": {
+			"displayName": "snow_o__o",
+			"name": "설채이",
+			"team": 2,
+			"teamName": "Team 달아이스"
+		},
+		"14": {
+			"displayName": "_달타_",
+			"name": "달타",
+			"team": 2,
+			"teamName": "Team 달아이스"
+		},
+		"15": {
+			"displayName": "GreatMoonAroma_",
+			"name": "대월향",
+			"team": 3,
+			"teamName": "Team 다이스키"
+		},
+		"16": {
+			"displayName": "DAOMM",
+			"name": "마다옴",
+			"team": 3,
+			"teamName": "Team 다이스키"
+		},
+		"17": {
+			"displayName": "gyeonjahee",
+			"name": "견자희",
+			"team": 3,
+			"teamName": "Team 다이스키"
+		},
+		"18": {
+			"displayName": "42dadada",
+			"name": "사이다",
+			"team": 3,
+			"teamName": "Team 다이스키"
+		},
+		"19": {
+			"displayName": "담비는흥흥",
+			"name": "깡담비",
+			"team": 3,
+			"teamName": "Team 다이스키"
+		},
+		"20": {
+			"displayName": "beadyo",
+			"name": "구슬요",
+			"team": 3,
+			"teamName": "Team 다이스키"
+		},
+		"21": {
+			"displayName": "​봄세이잉",
+			"name": "봄세이",
+			"team": 3,
+			"teamName": "Team 다이스키"
+		},
+		"22": {
+			"displayName": "CharmingJo",
+			"name": "조매력",
+			"team": 4,
+			"teamName": "Team 조뗌므"
+		},
+		"23": {
+			"displayName": "Ma-Wang",
+			"name": "마왕0216",
+			"team": 4,
+			"teamName": "Team 조뗌므"
+		},
+		"24": {
+			"displayName": "뽀린걸_",
+			"name": "뽀린걸",
+			"team": 4,
+			"teamName": "Team 조뗌므"
+		},
+		"25": {
+			"displayName": "kymakyma",
+			"name": "키마",
+			"team": 4,
+			"teamName": "Team 조뗌므"
+		},
+		"26": {
+			"displayName": "AyaneSena",
+			"name": "아야네 세나",
+			"team": 4,
+			"teamName": "Team 조뗌므"
+		},
+		"27": {
+			"displayName": "​유시노 리냐",
+			"name": "유시노 리냐",
+			"team": 4,
+			"teamName": "Team 조뗌므"
+		},
+		"28": {
+			"displayName": "Charmel",
+			"name": "김챠멜",
+			"team": 4,
+			"teamName": "Team 조뗌므"
+		},
+		"29": {
+			"displayName": "Anger d001",
+			"name": "머독",
+			"team": 5,
+			"teamName": "Team 머독"
+		},
+		"30": {
+			"displayName": "카린야_",
+			"name": "카린야",
+			"team": 5,
+			"teamName": "Team 머독"
+		},
+		"31": {
+			"displayName": "YangDoki",
+			"name": "양도끼",
+			"team": 5,
+			"teamName": "Team 머독"
+		},
+		"32": {
+			"displayName": "DDA_RIN",
+			"name": "따린",
+			"team": 5,
+			"teamName": "Team 머독"
+		},
+		"33": {
+			"displayName": "htvvi",
+			"name": "햇비",
+			"team": 5,
+			"teamName": "Team 머독"
+		},
+		"34": {
+			"displayName": "​_최또_",
+			"name": "최또",
+			"team": 5,
+			"teamName": "Team 머독"
+		},
+		"35": {
+			"displayName": "유샥크_",
+			"name": "유삭크",
+			"team": 5,
+			"teamName": "Team 머독"
+		},
+		"36": {
+			"displayName": "LILPAAA",
+			"name": "릴파",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"37": {
+			"displayName": "Gonyong",
+			"name": "Gonyong",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"38": {
+			"displayName": "_강 도_",
+			"name": "강도38",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"39": {
+			"displayName": "ByeolBam",
+			"name": "ByeolBam",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"40": {
+			"displayName": "크리이케_Creeike",
+			"name": "크리이케",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"41": {
+			"displayName": "오그림_",
+			"name": "오그림",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"42": {
+			"displayName": "Տɑѵҽادث",
+			"name": "Savedu",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"43": {
+			"displayName": "리스팅_",
+			"name": "리스팅",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"44": {
+			"displayName": "Gomgombear",
+			"name": "곰곰베어",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"45": {
+			"displayName": "hadaga",
+			"name": "하다가",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"46": {
+			"displayName": "_LarMa_",
+			"name": "라마",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"47": {
+			"displayName": "가면가온나",
+			"name": "가온가온나",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"48": {
+			"displayName": "(개르미)",
+			"name": "개르미",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"49": {
+			"displayName": "몰라요1419",
+			"name": "몰라요",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"50": {
+			"displayName": "GONAK",
+			"name": "GONAK",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"51": {
+			"displayName": "핵_맴매",
+			"name": "핵맴매",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"52": {
+			"displayName": "Arecanon",
+			"name": "아레카논",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"53": {
+			"displayName": "kimkamen",
+			"name": "킴카멘",
+			"team": 9,
+			"teamName": "동파제작팀"
+		},
+		"54": {
+			"displayName": "베이 bay",
+			"name": "베이",
+			"team": 9,
+			"teamName": "동파제작팀"
+		}
+	}
 }
