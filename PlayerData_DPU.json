@@ -55,173 +55,222 @@
 			"teamName": "강만식 팀"
 		},
 		"9": {
-			"displayName": "Oo김빙밍oO",
-			"name": "빙밍",
+			"displayName": "alsrud7192 a472",
+			"name": "백하",
 			"team": 2,
-			"teamName": "달아이스"
+			"teamName": "고세구 팀"
 		},
 		"10": {
-			"displayName": "제갈금자",
-			"name": "제갈금자",
+			"displayName": "moon_momo",
+			"name": "문모모",
 			"team": 2,
-			"teamName": "달아이스"
+			"teamName": "고세구 팀"
 		},
 		"11": {
-			"displayName": "Danz_59",
-			"name": "단즈",
+			"displayName": "데스해머쵸로키",
+			"name": "데스해머쵸로키",
 			"team": 2,
-			"teamName": "달아이스"
+			"teamName": "고세구 팀"
 		},
 		"12": {
-			"displayName": "_단츄_",
-			"name": "단츄",
+			"displayName": "_한결_",
+			"name": "한결",
 			"team": 2,
-			"teamName": "달아이스"
+			"teamName": "고세구 팀"
 		},
 		"13": {
-			"displayName": "snow_o__o",
-			"name": "설채이",
+			"displayName": "_한둬얼_",
+			"name": "한둬얼",
 			"team": 2,
-			"teamName": "달아이스"
+			"teamName": "고세구 팀"
 		},
 		"14": {
-			"displayName": "_달타_",
-			"name": "달타",
+			"displayName": "oO김빙밍Oo",
+			"name": "빙밍",
 			"team": 2,
-			"teamName": "달아이스"
+			"teamName": "고세구 팀"
 		},
 		"15": {
-			"displayName": "GreatMoonAroma_",
-			"name": "대월향",
-			"team": 3,
-			"teamName": "다이스키"
+			"displayName": "Zotdiax 20a7",
+			"name": "조디악",
+			"team": 2,
+			"teamName": "고세구 팀"
 		},
 		"16": {
-			"displayName": "DAOMM",
-			"name": "마다옴",
+			"displayName": "NDT 유현규",
+			"name": "유현규",
 			"team": 3,
-			"teamName": "다이스키"
+			"teamName": "머독 팀"
 		},
 		"17": {
-			"displayName": "gyeonjahee",
-			"name": "견자희",
+			"displayName": "gyeolhee",
+			"name": "민결희",
 			"team": 3,
-			"teamName": "다이스키"
+			"teamName": "머독 팀"
 		},
 		"18": {
-			"displayName": "42dadada",
-			"name": "사이다",
-			"team": 3,
-			"teamName": "다이스키"
-		},
-		"19": {
-			"displayName": "담비는흥흥",
-			"name": "깡담비",
-			"team": 3,
-			"teamName": "다이스키"
-		},
-		"20": {
-			"displayName": "beadyo",
-			"name": "구슬요",
-			"team": 3,
-			"teamName": "다이스키"
-		},
-		"21": {
-			"displayName": "​봄세이잉",
-			"name": "봄세이",
-			"team": 3,
-			"teamName": "다이스키"
-		},
-		"22": {
-			"displayName": "CharmingJo",
-			"name": "조매력",
-			"team": 4,
-			"teamName": "죠뗌므"
-		},
-		"23": {
-			"displayName": "Ma-Wang",
-			"name": "마왕",
-			"team": 4,
-			"teamName": "죠뗌므"
-		},
-		"24": {
-			"displayName": "뽀린걸_",
-			"name": "뽀린걸",
-			"team": 4,
-			"teamName": "죠뗌므"
-		},
-		"25": {
-			"displayName": "kymakyma",
-			"name": "키마",
-			"team": 4,
-			"teamName": "죠뗌므"
-		},
-		"26": {
-			"displayName": "AyaneSena",
-			"name": "아야네 세나",
-			"team": 4,
-			"teamName": "죠뗌므"
-		},
-		"27": {
-			"displayName": "유시노 리냐",
-			"name": "유시노 리냐",
-			"team": 4,
-			"teamName": "죠뗌므"
-		},
-		"28": {
-			"displayName": "Charmel",
-			"name": "김챠멜",
-			"team": 4,
-			"teamName": "죠뗌므"
-		},
-		"29": {
-			"displayName": "Anger d001",
-			"name": "머독",
-			"team": 5,
-			"teamName": "레드힐즈"
-		},
-		"30": {
-			"displayName": "카린야_",
-			"name": "카린야",
-			"team": 5,
-			"teamName": "레드힐즈"
-		},
-		"31": {
-			"displayName": "YangDoki",
-			"name": "양도끼",
-			"team": 5,
-			"teamName": "레드힐즈"
-		},
-		"32": {
-			"displayName": "DDA_RIN",
-			"name": "따린",
-			"team": 5,
-			"teamName": "레드힐즈"
-		},
-		"33": {
 			"displayName": "htvvi",
 			"name": "햇비",
-			"team": 5,
-			"teamName": "레드힐즈"
+			"team": 3,
+			"teamName": "머독 팀"
 		},
-		"34": {
+		"19": {
+			"displayName": "DDA_RIN",
+			"name": "따린",
+			"team": 3,
+			"teamName": "머독 팀"
+		},
+		"20": {
+			"displayName": "희또__",
+			"name": "강희또",
+			"team": 3,
+			"teamName": "머독 팀"
+		},
+		"21": {
 			"displayName": "​_최또_",
 			"name": "최또",
+			"team": 3,
+			"teamName": "머독 팀"
+		},
+		"22": {
+			"displayName": "아르바_",
+			"name": "아르바",
+			"team": 3,
+			"teamName": "머독 팀"
+		},
+		"23": {
+			"displayName": "마이곰이",
+			"name": "마이곰이",
+			"team": 4,
+			"teamName": "봉준 팀"
+		},
+		"24": {
+			"displayName": "beadyo",
+			"name": "구슬요",
+			"team": 4,
+			"teamName": "봉준 팀"
+		},
+		"25": {
+			"displayName": "봄세이잉",
+			"name": "봄세이",
+			"team": 4,
+			"teamName": "봉준 팀"
+		},
+		"26": {
+			"displayName": "qooqoo3110",
+			"name": "쿠우",
+			"team": 4,
+			"teamName": "봉준 팀"
+		},
+		"27": {
+			"displayName": "쫀득",
+			"name": "쫀득",
+			"team": 4,
+			"teamName": "봉준 팀"
+		},
+		"28": {
+			"displayName": "_해나땅",
+			"name": "해나땅",
+			"team": 4,
+			"teamName": "봉준 팀"
+		},
+		"29": {
+			"displayName": "HONGTAKU f74e",
+			"name": "홍타쿠",
+			"team": 4,
+			"teamName": "봉준 팀"
+		},
+		"30": {
+			"displayName": "담비는흥흥",
+			"name": "깡담비",
 			"team": 5,
-			"teamName": "레드힐즈"
+			"teamName": "천양 팀"
+		},
+		"31": {
+			"displayName": "이루희_",
+			"name": "이루희",
+			"team": 5,
+			"teamName": "천양 팀"
+		},
+		"32": {
+			"displayName": "한 아 밍",
+			"name": "한아밍",
+			"team": 5,
+			"teamName": "천양 팀"
+		},
+		"33": {
+			"displayName": "JISOU f13e",
+			"name": "장지수",
+			"team": 5,
+			"teamName": "천양 팀"
+		},
+		"34": {
+			"displayName": "​모카_b",
+			"name": "모카",
+			"team": 5,
+			"teamName": "천양 팀"
 		},
 		"35": {
-			"displayName": "유샥크_",
-			"name": "유삭크",
+			"displayName": "_단츄_",
+			"name": "단츄",
 			"team": 5,
-			"teamName": "레드힐즈"
+			"teamName": "천양 팀"
 		},
 		"36": {
+			"displayName": "Ma-Wang",
+			"name": "마왕",
+			"team": 5,
+			"teamName": "천양 팀"
+		},
+		"37": {
+			"displayName": "유샥크",
+			"name": "유샥크",
+			"team": 6,
+			"teamName": "천양 팀"
+		},
+		"38": {
+			"displayName": "예다YEDA",
+			"name": "예다",
+			"team": 5,
+			"teamName": "타요 팀"
+		},
+		"39": {
+			"displayName": "하로하_",
+			"name": "하로하",
+			"team": 5,
+			"teamName": "타요 팀"
+		},
+		"40": {
+			"displayName": "뽀린걸_",
+			"name": "뽀린걸",
+			"team": 5,
+			"teamName": "타요 팀"
+		},
+		"41": {
+			"displayName": "NanWony",
+			"name": "난워니",
+			"team": 5,
+			"teamName": "타요 팀"
+		},
+		"42": {
+			"displayName": "JINHONIM ba7d",
+			"name": "진호",
+			"team": 5,
+			"teamName": "타요 팀"
+		},
+		"43": {
 			"displayName": "리스팅_",
 			"name": "리스팅",
-			"team": 5,
-			"teamName": "레드힐즈"
+			"team": 0,
+			"teamName": "스태프 팀"
+		},
+		"44": {
+			"displayName": "Arecanon",
+			"name": "아레카논",
+			"team": 0,
+			"teamName": "스태프 팀"
 		}
 	}
 }
+
 
