@@ -261,17 +261,18 @@
 		"43": {
 			"displayName": "리스팅_",
 			"name": "리스팅",
-			"team": 0,
+			"team": 6,
 			"teamName": "스태프 팀"
 		},
 		"44": {
 			"displayName": "Arecanon",
 			"name": "아레카논",
-			"team": 0,
+			"team": 6,
 			"teamName": "스태프 팀"
 		}
 	}
 }
+
 
 
 
