@@ -219,59 +219,60 @@
 		"36": {
 			"displayName": "유샥크",
 			"name": "유샥크",
-			"team": 6,
+			"team": 5,
 			"teamName": "꼭따라이"
 		},
 		"37": {
 			"displayName": "예다YEDA",
 			"name": "예다",
-			"team": 5,
+			"team": 6,
 			"teamName": "아바타요"
 		},
 		"38": {
 			"displayName": "_victory",
 			"name": "빅토리",
-			"team": 5,
+			"team": 6,
 			"teamName": "아바타요"
 		},
 		"39": {
 			"displayName": "하로하_",
 			"name": "하로하",
-			"team": 5,
+			"team": 6,
 			"teamName": "아바타요"
 		},
 		"40": {
 			"displayName": "뽀린걸_",
 			"name": "뽀린걸",
-			"team": 5,
+			"team": 6,
 			"teamName": "아바타요"
 		},
 		"41": {
 			"displayName": "NanWony",
 			"name": "난워니",
-			"team": 5,
+			"team": 6,
 			"teamName": "아바타요"
 		},
 		"42": {
 			"displayName": "JINHONIM ba7d",
 			"name": "진호",
-			"team": 5,
+			"team": 6,
 			"teamName": "아바타요"
 		},
 		"43": {
 			"displayName": "리스팅_",
 			"name": "리스팅",
-			"team": 6,
+			"team": 7,
 			"teamName": "스태프 팀"
 		},
 		"44": {
 			"displayName": "Arecanon",
 			"name": "아레카논",
-			"team": 6,
+			"team": 7,
 			"teamName": "스태프 팀"
 		}
 	}
 }
+
 
 
 
