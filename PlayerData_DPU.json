@@ -73,7 +73,7 @@
 			"teamName": "빙신구"
 		},
 		"12": {
-			"displayName": "_한둬얼_",
+			"displayName": "HanDuoer",
 			"name": "한둬얼",
 			"team": 2,
 			"teamName": "빙신구"
@@ -157,7 +157,7 @@
 			"teamName": "매타작버스"
 		},
 		"26": {
-			"displayName": "쫀득",
+			"displayName": "쫀득이 c5e0",
 			"name": "쫀득",
 			"team": 4,
 			"teamName": "매타작버스"
@@ -272,6 +272,7 @@
 		}
 	}
 }
+
 
 
 
