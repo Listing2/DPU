@@ -259,25 +259,142 @@
 			"teamName": "아바타요"
 		},
 		"43": {
-			"displayName": "리스팅_",
-			"name": "리스팅",
+			"displayName": "__진희__",
+			"name": "진희",
 			"team": 7,
-			"teamName": "스태프 팀"
+			"teamName": "텍사스"
 		},
 		"44": {
+			"displayName": "_강풍_",
+			"name": "강풍",
+			"team": 8,
+			"teamName": "대한민국"
+		},
+		"45": {
+			"displayName": "_마법소녀 이드_",
+			"name": "마법소녀 이드",
+			"team": 9,
+			"teamName": "인도"
+		},
+		"46": {
+			"displayName": "303특공대 강요셉",
+			"name": "303특공대 강요셉",
+			"team": 10,
+			"teamName": "베르단스크"
+		},
+		"47": {
+			"displayName": "괴시아키",
+			"name": "괴시아키",
+			"team": 11,
+			"teamName": "태국"
+		},
+		"48": {
+			"displayName": "구호선_",
+			"name": "구호선",
+			"team": 12,
+			"teamName": "스코틀랜드"
+		},
+		"49": {
+			"displayName": "길앞잡이 광수",
+			"name": "길앞잡이 광수",
+			"team": 13,
+			"teamName": "아르벨왕국-그렌드힐"
+		},
+		"50": {
+			"displayName": "Danz_59",
+			"name": "단즈",
+			"team": 14,
+			"teamName": "만스터치"
+		},
+		"51": {
+			"displayName": "동그리방상",
+			"name": "동그리방상",
+			"team": 15,
+			"teamName": "방글라데시"
+		},
+		"52": {
+			"displayName": "버 드_",
+			"name": "버드",
+			"team": 16,
+			"teamName": "칠레"
+		},
+		"53": {
+			"displayName": "샤샤_syasya",
+			"name": "샤샤",
+			"team": 17,
+			"teamName": "이집트"
+		},
+		"54": {
+			"displayName": "서애라_",
+			"name": "서애라",
+			"team": 18,
+			"teamName": "북한"
+		},
+		"55": {
+			"displayName": "세르게이 드라구노프",
+			"name": "세르게이 드라구노프",
+			"team": 19,
+			"teamName": "러시아"
+		},
+		"56": {
+			"displayName": "솔롱고스",
+			"name": "솔롱고스",
+			"team": 20,
+			"teamName": "몽골"
+		},
+		"57": {
+			"displayName": "아르바_",
+			"name": "아르바",
+			"team": 21,
+			"teamName": "화성연방"
+		},
+		"58": {
+			"displayName": "야 구 자",
+			"name": "야구자",
+			"team": 22,
+			"teamName": "일본"
+		},
+		"59": {
+			"displayName": "인디언 빔밥",
+			"name": "인디언 빔밥",
+			"team": 23,
+			"teamName": "미국"
+		},
+		"60": {
+			"displayName": "저스트 조",
+			"name": "저스트 조",
+			"team": 24,
+			"teamName": "베트남"
+		},
+		"61": {
+			"displayName": "제갈 통",
+			"name": "제갈 통",
+			"team": 25,
+			"teamName": "중국"
+		},
+		"62": {
+			"displayName": "종이품 병조참판 대곡",
+			"name": "종이품 병조참판 대곡",
+			"team": 26,
+			"teamName": "조선"
+		},
+		"63": {
+			"displayName": "하율 옹",
+			"name": "하율 옹",
+			"team": 27,
+			"teamName": "대만"
+		},
+		"64": {
+			"displayName": "리스팅_",
+			"name": "리스팅",
+			"team": 28,
+			"teamName": "스태프 팀"
+		},
+		"65": {
 			"displayName": "Arecanon",
 			"name": "아레카논",
-			"team": 7,
+			"team": 28,
 			"teamName": "스태프 팀"
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
