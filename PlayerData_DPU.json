@@ -303,94 +303,95 @@
 		"50": {
 			"displayName": "동그리방상",
 			"name": "동그리방상",
-			"team": 15,
+			"team": 14,
 			"teamName": "방글라데시"
 		},
 		"51": {
 			"displayName": "버 드_",
 			"name": "버드",
-			"team": 16,
+			"team": 15,
 			"teamName": "칠레"
 		},
 		"52": {
 			"displayName": "샤샤_syasya",
 			"name": "샤샤",
-			"team": 17,
+			"team": 16,
 			"teamName": "이집트"
 		},
 		"53": {
 			"displayName": "서애라_",
 			"name": "서애라",
-			"team": 18,
+			"team": 17,
 			"teamName": "북한"
 		},
 		"54": {
 			"displayName": "세르게이 드라구노프",
 			"name": "세르게이 드라구노프",
-			"team": 19,
+			"team": 18,
 			"teamName": "러시아"
 		},
 		"55": {
 			"displayName": "솔롱고스",
 			"name": "솔롱고스",
-			"team": 20,
+			"team": 19,
 			"teamName": "몽골"
 		},
 		"56": {
 			"displayName": "아르바_",
 			"name": "아르바",
-			"team": 21,
+			"team": 20,
 			"teamName": "화성연방"
 		},
 		"57": {
 			"displayName": "야 구 자",
 			"name": "야구자",
-			"team": 22,
+			"team": 21,
 			"teamName": "일본"
 		},
 		"58": {
 			"displayName": "인디언 빔밥",
 			"name": "인디언 빔밥",
-			"team": 23,
+			"team": 22,
 			"teamName": "미국"
 		},
 		"59": {
 			"displayName": "저스트 조",
 			"name": "저스트 조",
-			"team": 24,
+			"team": 23,
 			"teamName": "베트남"
 		},
 		"60": {
 			"displayName": "제갈 통",
 			"name": "제갈 통",
-			"team": 25,
+			"team": 24,
 			"teamName": "중국"
 		},
 		"61": {
 			"displayName": "종이품 병조참판 대곡",
 			"name": "종이품 병조참판 대곡",
-			"team": 26,
+			"team": 25,
 			"teamName": "조선"
 		},
 		"62": {
 			"displayName": "하율 옹",
 			"name": "하율 옹",
-			"team": 27,
+			"team": 26,
 			"teamName": "대만"
 		},
 		"63": {
 			"displayName": "리스팅_",
 			"name": "리스팅",
-			"team": 28,
+			"team": 27,
 			"teamName": "스태프 팀"
 		},
 		"64": {
 			"displayName": "Arecanon",
 			"name": "아레카논",
-			"team": 28,
+			"team": 27,
 			"teamName": "스태프 팀"
 		}
 	}
 }
+
 
 
