@@ -121,7 +121,7 @@
 			"teamName": "레드윙즈"
 		},
 		"20": {
-			"displayName": "​_최또_",
+			"displayName": "_최또_",
 			"name": "최또",
 			"team": 3,
 			"teamName": "레드윙즈"
@@ -199,7 +199,7 @@
 			"teamName": "꼭따라이"
 		},
 		"33": {
-			"displayName": "​모카_b",
+			"displayName": "모카_b",
 			"name": "모카",
 			"team": 5,
 			"teamName": "꼭따라이"
@@ -391,6 +391,7 @@
 			"teamName": "스태프 팀"
 		}
 	}
+
 
 
 
